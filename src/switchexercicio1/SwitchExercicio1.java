@@ -1,21 +1,15 @@
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
 package switchexercicio1;
 
-/**
- *
- * @author Alicerce Educação
- */
+//Implemente em Java, um código que leia uma letra entre “a” e “d”.
+//Utilize uma estrutura switch-case em que cada caso imprime o nome
+//de uma fruta diferente e o padrão mostre que o usuário cometeu um
+//erro.
+
 public class SwitchExercicio1 {
 
-    /**
-     * @param args the command line arguments
-     */
+ 
     public static void main(String[] args) {
-        // TODO code application logic here
+        
     }
     
 }
